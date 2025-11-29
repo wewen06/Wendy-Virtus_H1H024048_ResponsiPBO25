@@ -19,3 +19,6 @@ Aplikasi "PokéCare" sederhana berbasis PHP native yang mensimulasikan pelatihan
 1. Clone repository
 2. Jalankan PHP built-in server (PHP terinstall)
 3. Buka browser ke `http://localhost:8000/index.php`
+
+## Demo Projek
+![Uploading Screen Recording 2025-11-29 171810 (2).gif…]()
